@@ -1,0 +1,29 @@
+my  mind map for the first lesson 
+first use search and type in terminal and then cd to downloads
+and the diff -u file1 file2
+this compares two files 
+q: no clear with -u
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+  i think that when using diff,there is a minus and a plus in the two files to show file differences. this is usually where the difference appears.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  then i can constantly correct my error or to have a better idea to know where to go.
+what is a typo
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+  well i think the main pros are that you can create just in enough commits instead of having too much or too little. but to decide just the right saving timing is a big challenge.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+ well in git there are usually multiple files that are interrelated while doc like google doc are most of time independent with each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  well this is just simple, all you have to do is to typing git log and the copy ID after commit and the use git diff
+
+How might using version control make you more confident to make changes that could break something?
+  since i don’t have to worry about code lost or revise the code or forget the code , i can do any changes i want cause i can always 
+get it back.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+  
