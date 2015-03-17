@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+because i want to use repository to track changes that i made to files in that directory so that i can change states of files in that directory as i wish.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ I got it!!! if we have a staging area we can add multiple file and modify multiple file during the same time.
+
+
+ 
