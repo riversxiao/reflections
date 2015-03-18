@@ -5,4 +5,6 @@ How is the staging area different from the working directory and the repository?
  I got it!!! if we have a staging area we can add multiple file and modify multiple file during the same time.
 
 
+
+
  
