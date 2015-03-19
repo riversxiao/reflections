@@ -1,1 +1,4 @@
 this is a great course, I'm approaching the end of the course!!!
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+if we are in the middle of a project and unwilling to upload the file, this can cause problem.
