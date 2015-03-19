@@ -4,6 +4,16 @@ because i want to use repository to track changes that i made to files in that d
 How is the staging area different from the working directory and the repository? What value do you think it offers?
  I got it!!! if we have a staging area we can add multiple file and modify multiple file during the same time.
 
+How can you use the staging area to make sure you have one commit per logical change?
+ I can just take one logical change and add it to the staging area. then commit it. In this way i can commit one change at a time.
+ 
+
+note: git branch git branch easy-mode
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you want to add some new flavor to your program but don’t want to destroy the original file. 
+
+note: git checkout -b new_branch_name
 
 
 
